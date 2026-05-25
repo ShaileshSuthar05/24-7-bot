@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ZNCVIPER-NIIV.aternos.me",
+    "ip": "kingfish.aternos.host",
     "port": 64936,
     "version": "1.20.1",
     "try-creative": false
